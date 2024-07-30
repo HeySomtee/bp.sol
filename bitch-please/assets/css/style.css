@@ -1063,7 +1063,7 @@ ol {
     background-image: url(../images/banner/banner-bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: 0px -60px;
+    background-position: center;
     position: absolute;
     top: 0px;
     left: 0px;
